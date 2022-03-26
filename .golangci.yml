@@ -78,8 +78,6 @@ linters:
     - unparam
     - unused
     - varcheck
-    - varnamelen
     - wastedassign
     - whitespace
     - wrapcheck
-    - wsl

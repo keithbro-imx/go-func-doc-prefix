@@ -1,10 +1,10 @@
 package mint
 
-import "github.com/keithbro-imx/goplayground/utils"
+import myUtils "github.com/keithbro-imx/goplayground/utils"
 
 // Yo dawg.
 func Hello() string {
-	utils.Hello()
+	myUtils.Hello()
 
 	return "Hello, world."
 }
